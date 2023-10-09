@@ -1,0 +1,11 @@
+const age=18;
+const gender='female';
+
+if(age>=18 || gender=='female')
+{
+    console.log("you can marry");
+}
+else
+{
+    console.log("wait");
+}
